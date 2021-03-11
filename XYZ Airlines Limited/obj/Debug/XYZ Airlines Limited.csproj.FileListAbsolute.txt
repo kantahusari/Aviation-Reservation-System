@@ -1,0 +1,44 @@
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ Airlines Limited.csprojAssemblyReference.cache
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.Properties.Resources.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ Airlines Limited.csproj.GenerateResource.cache
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\bin\Debug\XYZ Airlines Limited.exe.config
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\bin\Debug\XYZ Airlines Limited.exe
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\bin\Debug\XYZ Airlines Limited.pdb
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ Airlines Limited.exe
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ Airlines Limited.pdb
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.AddFlight.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.FlightMenu.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.Home.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.DeleteFlight.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.ViewFlights.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.ViewParticularFlight.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.AddCustomer.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.CustomerMenu.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.DeleteCustomer.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.ViewCustomers.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.BookingMenu.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.MakeBooking.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.ViewBookings.resources
+C:\Users\WaspMan\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.SplashScreen.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\bin\Debug\XYZ Airlines Limited.exe.config
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\bin\Debug\XYZ Airlines Limited.exe
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\bin\Debug\XYZ Airlines Limited.pdb
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ Airlines Limited.csprojAssemblyReference.cache
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.BookingMenu.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.AddCustomer.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.CustomerMenu.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.DeleteCustomer.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.AddFlight.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.DeleteFlight.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.FlightMenu.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.Home.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.MakeBooking.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.Properties.Resources.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.ViewFlights.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.ViewParticularFlight.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.ViewCustomers.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.ViewBookings.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ_Airlines_Limited.SplashScreen.resources
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ Airlines Limited.csproj.GenerateResource.cache
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ Airlines Limited.exe
+C:\Users\kanta\Downloads\XYZ Airlines Limited\XYZ Airlines Limited\XYZ Airlines Limited\obj\Debug\XYZ Airlines Limited.pdb
